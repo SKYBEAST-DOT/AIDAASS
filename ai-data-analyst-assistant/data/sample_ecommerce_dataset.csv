@@ -1,0 +1,41 @@
+order_id,order_date,customer_id,customer_segment,region,category,product,quantity,unit_price,discount_pct,revenue,cost,profit,payment_method,shipping_days
+E1001,2025-01-03,C001,Consumer,North,Electronics,Wireless Mouse,3,25.0,0.05,71.25,39.0,32.25,Card,3
+E1002,2025-01-04,C002,Corporate,West,Electronics,Mechanical Keyboard,2,85.0,0.10,153.0,96.0,57.0,UPI,4
+E1003,2025-01-05,C003,Home Office,South,Furniture,Office Chair,1,220.0,0.15,187.0,128.0,59.0,Card,5
+E1004,2025-01-06,C004,Consumer,East,Fashion,Running Shoes,2,95.0,0.08,174.8,108.0,66.8,COD,6
+E1005,2025-01-08,C005,Consumer,North,Beauty,Skincare Kit,4,35.0,0.00,140.0,72.0,68.0,UPI,2
+E1006,2025-01-10,C006,Corporate,West,Electronics,Noise Cancelling Headphones,1,180.0,0.07,167.4,105.0,62.4,Card,3
+E1007,2025-01-12,C007,Home Office,South,Office Supplies,Notebook Set,6,12.0,0.00,72.0,30.0,42.0,Card,4
+E1008,2025-01-14,C008,Consumer,East,Electronics,Smartwatch,1,250.0,0.12,220.0,150.0,70.0,UPI,5
+E1009,2025-01-16,C009,Consumer,North,Home,Air Purifier,1,180.0,0.10,162.0,112.0,50.0,Card,4
+E1010,2025-01-18,C010,Corporate,West,Furniture,Standing Desk,1,420.0,0.18,344.4,250.0,94.4,Bank Transfer,7
+E1011,2025-01-20,C011,Consumer,South,Fashion,Denim Jacket,2,70.0,0.05,133.0,78.0,55.0,UPI,3
+E1012,2025-01-22,C012,Home Office,East,Electronics,External SSD,2,120.0,0.09,218.4,144.0,74.4,Card,2
+E1013,2025-01-25,C013,Consumer,North,Beauty,Hair Dryer,1,65.0,0.00,65.0,34.0,31.0,COD,4
+E1014,2025-01-27,C014,Corporate,West,Office Supplies,Printer Paper Pack,10,8.0,0.03,77.6,42.0,35.6,UPI,5
+E1015,2025-01-29,C015,Consumer,South,Home,Cookware Set,1,145.0,0.11,129.05,84.0,45.05,Card,4
+E1016,2025-02-02,C016,Consumer,East,Electronics,Bluetooth Speaker,2,55.0,0.06,103.4,58.0,45.4,UPI,3
+E1017,2025-02-04,C017,Home Office,North,Furniture,Bookshelf,1,190.0,0.14,163.4,110.0,53.4,Card,6
+E1018,2025-02-06,C018,Consumer,West,Fashion,Backpack,3,48.0,0.05,136.8,75.0,61.8,COD,4
+E1019,2025-02-08,C019,Corporate,South,Electronics,Webcam HD,4,60.0,0.10,216.0,132.0,84.0,Card,3
+E1020,2025-02-10,C020,Consumer,East,Home,Coffee Maker,1,130.0,0.08,119.6,74.0,45.6,UPI,5
+E1021,2025-02-12,C021,Consumer,North,Beauty,Perfume,2,50.0,0.07,93.0,48.0,45.0,Card,2
+E1022,2025-02-14,C022,Corporate,West,Office Supplies,Desk Organizer,5,18.0,0.04,86.4,42.0,44.4,Bank Transfer,4
+E1023,2025-02-16,C023,Home Office,South,Electronics,27-inch Monitor,1,280.0,0.13,243.6,180.0,63.6,Card,6
+E1024,2025-02-18,C024,Consumer,East,Fashion,Sneakers,2,82.0,0.09,149.24,92.0,57.24,UPI,3
+E1025,2025-02-20,C025,Consumer,North,Home,Vacuum Cleaner,1,210.0,0.10,189.0,128.0,61.0,Card,5
+E1026,2025-02-22,C026,Corporate,West,Electronics,USB-C Hub,6,30.0,0.12,158.4,90.0,68.4,UPI,2
+E1027,2025-02-24,C027,Consumer,South,Beauty,Makeup Box,2,58.0,0.05,110.2,62.0,48.2,COD,4
+E1028,2025-02-26,C028,Home Office,East,Office Supplies,Ergonomic Mouse Pad,5,14.0,0.00,70.0,28.0,42.0,Card,3
+E1029,2025-03-01,C029,Consumer,North,Electronics,Tablet,1,320.0,0.16,268.8,196.0,72.8,UPI,5
+E1030,2025-03-03,C030,Corporate,West,Furniture,Conference Chair,2,165.0,0.14,283.8,188.0,95.8,Bank Transfer,7
+E1031,2025-03-05,C031,Consumer,South,Fashion,Formal Shirt,4,38.0,0.06,142.88,78.0,64.88,Card,3
+E1032,2025-03-07,C032,Consumer,East,Home,Water Purifier,1,240.0,0.12,211.2,156.0,55.2,UPI,6
+E1033,2025-03-09,C033,Home Office,North,Office Supplies,Whiteboard,2,72.0,0.08,132.48,78.0,54.48,Card,4
+E1034,2025-03-11,C034,Consumer,West,Electronics,Portable Charger,5,28.0,0.05,133.0,70.0,63.0,COD,2
+E1035,2025-03-13,C035,Corporate,South,Electronics,Laptop Stand,3,42.0,0.09,114.66,66.0,48.66,UPI,3
+E1036,2025-03-15,C036,Consumer,East,Beauty,Face Serum,3,44.0,0.07,122.76,69.0,53.76,Card,2
+E1037,2025-03-17,C037,Consumer,North,Home,LED Desk Lamp,2,39.0,0.04,74.88,40.0,34.88,UPI,3
+E1038,2025-03-19,C038,Home Office,West,Furniture,Storage Cabinet,1,260.0,0.15,221.0,154.0,67.0,Card,6
+E1039,2025-03-21,C039,Consumer,South,Fashion,Sports Cap,6,16.0,0.00,96.0,48.0,48.0,COD,4
+E1040,2025-03-23,C040,Corporate,East,Electronics,Smartphone,2,540.0,0.10,972.0,720.0,252.0,Bank Transfer,5
