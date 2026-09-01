@@ -745,12 +745,10 @@ with assistant_col:
             )
 
             if not resolved_api_key:
-                st.error(
-                    "Gemini API key is required. "
-                    "Enter it in the sidebar or configure "
-                    "GEMINI_API_KEY in Streamlit Secrets."
+                st.warning(
+                    "Gemini API key not detected. "
+                    "Running in fallback analysis mode."
                 )
-                st.stop()
 
             _reset_analysis()
 

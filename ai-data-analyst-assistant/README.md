@@ -53,13 +53,14 @@ ai-data-analyst-assistant/
    pip install -r requirements.txt
    ```
 
-4. Configure Gemini API key:
+4. Configure Gemini API key (optional, recommended):
 
    ```bash
    export GEMINI_API_KEY="your_api_key_here"
    ```
 
    You can also enter the API key from the Streamlit sidebar.
+   If no key is provided, the app still runs using deterministic fallback analysis.
 
 ### Store API key inside workspace
 
@@ -79,7 +80,9 @@ streamlit run app.py
 
 ## Notes for Streamlit Cloud
 
-- Add `GEMINI_API_KEY` to app Secrets.
+- Main file path: `ai-data-analyst-assistant/app.py`
+- Dependencies are read from repository root `requirements.txt` (which references this folder's requirements).
+- Add `GEMINI_API_KEY` to app Secrets for full AI generation (optional; fallback mode works without it).
 - Keep file sizes moderate for faster preview and analysis.
 - If AI returns invalid code, rephrase using explicit column names.
 - You can run the app without uploading files by choosing an example dataset in the sidebar.
